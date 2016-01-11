@@ -5,7 +5,7 @@
 EAPI=5
 
 EGIT_REPO_URI="https://github.com/xbmc/audioencoder.vorbis.git"
-EGIT_BRANCH="master"
+EGIT_BRANCH="Isengard"
 
 inherit git-r3 cmake-utils kodi-addon
 
