@@ -6,6 +6,7 @@ EAPI=5
 
 EGIT_REPO_URI="https://github.com/xbmc/kodi-platform.git"
 EGIT_BRANCH="master"
+EGIT_COMMIT="45d6ad1984fdb1dc855076ff18484dbec33939d1"
 
 inherit git-r3 cmake-utils
 
